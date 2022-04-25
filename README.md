@@ -14,8 +14,3 @@ Technologies used:
 Software requirements :
   PHP 5,xampp local server
   
-  Team Members:
-  Nisha D Mahendrakar(TL),
-  Saba Shagufta,
-  Kritika Singh,
-  Basavaraj Kurubar.

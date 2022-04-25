@@ -12,5 +12,5 @@ Technologies used:
   Web designing language-PHP
   RDBMS-MySQL
 Software requirements :
-  PHP 5,xampp local server
+  PHP 5,Apache server
   
